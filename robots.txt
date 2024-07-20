@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sombormi.github.io/sitemap
+Sitemap: https://sombormi.github.io/app/sitemap
+Sitemap: https://sombormi.github.io/assets/sitemap
+Sitemap: https://sombormi.github.io/css/sitemap
+Sitemap: https://sombormi.github.io/includes/sitemap
+Sitemap: https://sombormi.github.io/item/sitemap
+Sitemap: https://sombormi.github.io/src/sitemap
